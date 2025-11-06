@@ -6,7 +6,7 @@
 
 by Peter Kahl, 2025-11-06
 
-[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17542063-blue.svg)](https://doi.org/10.5281/zenodo.17542063) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![Generic badge](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17542062-blue.svg)](https://doi.org/10.5281/zenodo.17542062) [![Generic badge](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![A twilight plaza framed by four monumental gates—marble, circuitry, glass, and stone—each inscribed LEGAL, TECHNICAL, EPISTEMIC, and STATE. At the centre glows a radiant sphere of light, symbolising shared knowledge constrained yet illuminated by the surrounding structures. The composition visualises the core argument of The Third Enclosure Movement: that modern governance of artificial intelligence operates through four interlocking enclosures—legal, technical, epistemic, and state—which together shape access to and control over knowledge. The light’s diffusion through the gates embodies the paper’s normative ideal of fiduciary openness, where illumination persists despite structural containment, reflecting a call to balance regulation with the ethical duty to sustain the epistemic commons.](https://github.com/Peter-Kahl/The-Third-Enclosure-Movement/blob/main/four_gates.jpg?raw=true)
 
@@ -30,7 +30,7 @@ AI governance, fiduciary duty, epistemic justice, knowledge regulation, restrict
 
 ## Cite this work
 
-Kahl, P. (2025). _The Third Enclosure Movement: Rethinking AI Regulation through a Taxonomy of Restricted Knowledge_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Third-Enclosure-Movement DOI: https://doi.org/10.5281/zenodo.17542063
+Kahl, P. (2025). _The Third Enclosure Movement: Rethinking AI Regulation through a Taxonomy of Restricted Knowledge_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Third-Enclosure-Movement DOI: https://doi.org/10.5281/zenodo.17542062
 
 ## Publisher & Licence
 
