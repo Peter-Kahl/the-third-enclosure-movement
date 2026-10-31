@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you refer to this work, please cite it as below."
+title: "The Third Enclosure Movement: Provenance, Answerability and Recognition in Artificial Intelligence"
+version: "2.2"
+date-released: 2026-10-26
+doi: "10.5281/zenodo.23661109"
+authors:
+  - family-names: Kahl
+    given-names: Peter
+    orcid: "https://orcid.org/0009-0003-1616-4843"
+    affiliation: "Independent researcher, Lex et Ratio"
+    email: peter.kahl@lexetratio.com
+license: CC-BY-4.0
+url: "https://doi.org/10.5281/zenodo.23661109"
+repository-code: "https://github.com/Peter-Kahl/the-third-enclosure-movement"
+keywords:
+  - enclosure
+  - knowledge commons
+  - epistemic commons
+  - provenance
+  - contestability
+  - answerability
+  - recognition
+  - objectivity
+  - citation indexing
+  - research assessment
+  - statistical order of knowledge
+  - large language models
+  - evaluative discretion
+  - displacement
+preferred-citation:
+  type: report
+  title: "The Third Enclosure Movement: Provenance, Answerability and Recognition in Artificial Intelligence"
+  authors:
+    - family-names: Kahl
+      given-names: Peter
+      orcid: "https://orcid.org/0009-0003-1616-4843"
+  collection-title: "Lex et Ratio Working Papers"
+  number: "LXR-2026-AIGOV-TRDENC-WP"
+  version: "2.2"
+  publisher:
+    name: "Lex et Ratio"
+  year: 2026
+  month: 10
+  doi: "10.5281/zenodo.23661109"
+  url: "https://doi.org/10.5281/zenodo.23661109"
+  license: CC-BY-4.0
+references:
+  - type: report
+    title: "The Answerable Commons: Governing the Epistemic Standards of AI Intermediaries"
+    authors:
+      - family-names: Kahl
+        given-names: Peter
+    collection-title: "Lex et Ratio Working Papers"
+    number: "LXR-2026-AIGOV-ANSCOM-WP"
+    version: "1.0"
+    year: 2026
+    doi: "10.5281/zenodo.23643231"
