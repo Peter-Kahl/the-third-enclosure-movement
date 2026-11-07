@@ -6,7 +6,6 @@
 
 Version 2.2 · 26 October 2026 · Lex et Ratio Working Paper LXR-2026-AIGOV-TRDENC-WP
 
-[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.5281%2Fzenodo.23661109)](https://juleskreuer.eu/projects/citation-badge)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23661109-blue.svg)](https://doi.org/10.5281/zenodo.23661109)
 [![Licence: CC BY 4.0](https://img.shields.io/badge/Licence-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--1616--4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
